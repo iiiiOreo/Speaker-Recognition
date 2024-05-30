@@ -8,6 +8,7 @@ This project is a simple speaker recognition application that uses machine learn
 - Import WAV files and identify the speaker.
 - Visualize audio spectrum during recording.
 
+
 ## Requirements
 
 - Python 3.7 or higher
