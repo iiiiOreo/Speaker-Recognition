@@ -11,7 +11,7 @@ This project is a simple speaker recognition application that uses machine learn
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3.7 or higher.
 - Required libraries: `numpy`, `matplotlib`, `librosa`, `scikit-learn`, `sounddevice`, `pyaudio`, `tkinter`, `scipy`
 
 ## Installation
