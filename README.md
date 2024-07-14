@@ -26,7 +26,7 @@ This project is a simple speaker recognition application that uses machine learn
 2. Install the required Python libraries:
 
     ```sh
-    pip install numpy matplotlib librosa scikit-learn sounddevice pyaudio scipy
+    pip install -r requirements.txt
     ```
 
 3. Ensure you have the following files in the project directory:
